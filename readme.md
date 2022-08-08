@@ -4,7 +4,7 @@
 
 This file includes a link and screenshot showing the HTML file named work-day scheduler. It is a calendar programme that enables users to save events for every working hour of the day.
 
-#### Here are some of the things included in this file:
+### Here are some of the things included in this file:
 
 - Current day is displayed at the top of the calendar
 - Color-coded timeblocks for standard business hours depending on past, present or future
