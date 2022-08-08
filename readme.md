@@ -6,7 +6,11 @@ This file includes a link and screenshot showing the HTML file named work-day sc
 
 #### Here are some of the things included in this file:
 
--
+- moment.js
+- jquery
+- current day is displayed at the top of the calendar
+- Color-coded timeblocks for standard business hours depending on past, present or future
+- saves timeblock to local storage
 
 ### Link
 
